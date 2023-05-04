@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+*{
+    font-family:Courgette;
+}
+h1{
+    font-family:Courgette;
+}
+.header{
+    margin-top:30px;
+    margin-bottom:70px;
+    margin-left:0px;
+    /* color:#EDC7B7; */
+    /* background-color: #eee2dc; */
+}
+.header::first-letter{
+    color:black;
+    font-size:70px;
+  }
+  .column{
+    margin-top:60px;
+    margin-left:150px;
+}
+h2,h4{
+    font-family:Courgette;
+}
+ a{
+    font-family:Courgette;
+    margin-right:30px;
+    margin-left:40px;
+    text-decoration: none;
+    color:black;
+
+}
+
+.nav-item a:hover{
+    background-color: rgb(240,204,172);
+}
+
+.navbar{
+    padding-bottom:30px;
+}
+.banner1{
+    margin-top:50px;
+    background-color:rgb(240,204,172);
+    margin-bottom: 50px;
+}
+.footer1{
+    background-color:rgb(240,204,172);
+    margin-top:100px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    font-family:Courgette;
+    }
+    

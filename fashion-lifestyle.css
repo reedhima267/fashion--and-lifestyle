@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+h1,h3,h4{
+color:black;
+    font-family:Courgette;
+}
+
+.header{
+    margin-top:30px;
+    margin-bottom:70px;
+    margin-left:0px;
+    /* color:#EDC7B7; */
+    /* background-color: #eee2dc; */
+}
+.banner{
+    background:url(../images/first\ dress.png) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:700px;
+}
+.card{
+    border-radius:0px;
+}
+.column{
+    margin-top:60px;
+    margin-left:150px;
+}
+h2,h4{
+    font-family:Courgette;
+}
+ a{
+    font-family:Courgette;
+    margin-right:30px;
+    margin-left:40px;
+    text-decoration: none;
+    color:black;
+
+}
+
+.nav-item a:hover{
+    background-color:rgb(240,204,172);
+}
+
+.navbar{
+    padding-bottom:30px;
+}
+
+.banner1{
+    margin-top:50px;
+    background-color:rgb(240,204,172);
+    margin-bottom: 50px;
+}
+.box{
+    font-size:20px;
+}
+
+.main{
+    width:100px;
+    height:250px;
+    margin-top:300px;
+    margin-left:200px;
+    border:0px solid;
+    font-family:Courgette ;
+    padding-top:10px;
+    padding-left:20px;
+    color:grey;
+    font-size:20px;
+    background-color: rgba(255, 255, 255, 0.612);
+}
+.footer1{
+background-color:rgb(240,204,172);
+margin-top:100px;
+padding-top:10px;
+padding-bottom: 10px;
+font-family:Courgette;
+}
